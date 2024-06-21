@@ -4,7 +4,7 @@ Hi 👋 My name is Francisco
 JavaScript enjoyer since 2019
 -----------------------------
 
-I started with JavaScript in 2020 coding bots of discord, very basic but I liked 'em, then I got interested in python and batch, and now, I'm learning C++
+I started with JavaScript in 2020 coding bots of discord, very basic but I liked 'em, then I got interested in python and batch, and now, I'm learning C++. Currently I'm learning C++ while coding some discord bots to entertain myself.
 
 *   🌍  I'm based in Spain
 *   ✉️  You can contact me at [frannna30@gmail.com](mailto:frannna30@gmail.com)
